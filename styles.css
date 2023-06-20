@@ -1,5 +1,6 @@
 body{
     direction: rtl;
+    font-size: 14px;
 } 
 p#result{
     color:red
