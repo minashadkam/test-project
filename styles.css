@@ -1,3 +1,7 @@
+body{
+    direction: rtl;
+} 
 p#result{
     color:red
 }
+
